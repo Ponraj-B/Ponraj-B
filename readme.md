@@ -9,6 +9,11 @@
 </p>
 
 ![Ponraj B](https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I'm+Ponraj+B;💻+Python+%26+Java+Developer;🎨+Image+Processing+Enthusiast;🚀+Streamlit+Lover;🧠+Learning+Machine+Learning+Fundamentals)
+
+<p align="center">
+  ![Ponraj B](https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I'm+Ponraj+B;💻+Python+%26+Java+Developer;🎨+Image+Processing+Enthusiast;🚀+Streamlit+Lover;🧠+Learning+Machine+Learning+Fundamentals)
+</p>
+
 ---
 
 ## 🎯 Welcome to Pixel Playground!
