@@ -1,7 +1,7 @@
-<!-- Centered Animated SVG Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I'm+Ponraj+B;💻+Python+%26+Java+Developer;🎨+Image+Processing+Enthusiast;🚀+Streamlit+Lover;🧠+Learning+Machine+Learning+Fundamentals;" alt="Ponraj B Animated Intro" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I'm+Ponraj+B;💻+Python+%26+Java+Developer;🎨+Image+Processing+Enthusiast;🚀+Streamlit+Lover;🧠+Learning+Machine+Learning+Fundamentals" alt="Ponraj B Animated Intro" />
 </p>
+
 
 ---
 
