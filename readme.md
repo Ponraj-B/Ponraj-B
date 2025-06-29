@@ -1,13 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Hi%2C+I'm+Ponraj+B%3B%F0%9F%92%BB+Python+%26+Java+Developer%3B%F0%9F%8E%A8+Image+Processing+Enthusiast%3B%F0%9F%9A%80+Streamlit+Lover%3B%F0%9F%A7%A0+Learning+Machine+Learning+Fundamentals" alt="Ponraj B Animated Intro" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Hi%2C+I'm+Ponraj+B%3B%F0%9F%92%BB+Python+%26+Java+Developer%3B%F0%9F%A7%A0+Learning+Machine+Learning+Fundamentals%3B%F0%9F%8E%A8+Image+Processing+Enthusiast%3B%F0%9F%9A%80+Streamlit+Lover" alt="Ponraj B Animated Intro" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Hi%2C+I'm+Ponraj+B%3B%F0%9F%92%BB+Python+%26+Java+Developer%3B%F0%9F%A7%A0+Learning+Machine+Learning+Fundamentals%3B%F0%9F%8E%A8+Image+Processing+Enthusiast%3B%F0%9F%9A%80+Streamlit+Lover&size=20" alt="Ponraj B Animated Intro" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Hi%2C+I'm+Ponraj+B%3B%F0%9F%92%BB+Python+%26+Java+Developer%3B%F0%9F%A7%A0+Currently+Learning+ML+Basics%3B%F0%9F%8E%A8+Image+Processing+Enthusiast%3B%F0%9F%9A%80+Streamlit+Lover" alt="Ponraj B Animated Intro" />
 </p>
 
 
