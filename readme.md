@@ -1,6 +1,9 @@
 <h2 align="center">
   ![Ponraj B](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Ponraj+B;Python+Developer;Image+Processing+Enthusiast;Streamlit+Lover!&center=true&width=500&height=50)
 
+  ![Ponraj B](https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I'm+Ponraj+B;💻+Python+%26+Java+Developer;🎨+Image+Processing+Enthusiast;🚀+Streamlit+Lover;🧠+Learning+Machine+Learning+Fundamentals;⚙️+Building+Foundation+of+LM+Basics&center=true&width=800&height=50&pause=1000&color=F70000&vCenter=true&size=25)
+
+
 </h2>
 
 
