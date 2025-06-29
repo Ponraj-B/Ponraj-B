@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I'm+Ponraj+B;💻+Python+%26+Java+Developer;🎨+Image+Processing+Enthusiast;🚀+Streamlit+Lover;🧠+Learning+Machine+Learning+Fundamentals&center=true&width=800&height=50&pause=1000&color=F70000&vCenter=true&size=25" alt="Ponraj B Typing Intro" />
+</p>
+
+<p align="center">
+  <a href="https://pixelplayground.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🔴 Live Demo-PixelPlayground-red?style=for-the-badge&logo=streamlit" alt="Live Demo">
+  </a>
+</p>
+
 ![Ponraj B](https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I'm+Ponraj+B;💻+Python+%26+Java+Developer;🎨+Image+Processing+Enthusiast;🚀+Streamlit+Lover;🧠+Learning+Machine+Learning+Fundamentals)
 ---
 
