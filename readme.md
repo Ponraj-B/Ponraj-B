@@ -29,7 +29,7 @@ Currently diving deeper into **Machine Learning** and building tools to make lea
 
 Here are some highlighted repositories (automated stars and updates below):
 
-- 🎨 [RGB Separator]([https://github.com/Ponraj-B/rgb-separator](https://github.com/Ponraj-B/RGB-Channel-Viewer)) – Visualize image color channels in Streamlit  
+- 🎨 [RGB Separator](https://github.com/Ponraj-B/RGB-Channel-Viewer) – Visualize image color channels in Streamlit  
 - 🧰 [Pixel Playground](https://github.com/Ponraj-B/pixel-playground) – 15+ NumPy-based tools for image manipulation  
 - 🔧 *More projects coming soon...*
 
