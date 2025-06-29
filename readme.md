@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  ![Ponraj B](https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I'm+Ponraj+B;💻+Python+%26+Java+Developer;🎨+Image+Processing+Enthusiast;🚀+Streamlit+Lover;🧠+Learning+Machine+Learning+Fundamentals&)
+  ![Ponraj B](https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I'm+Ponraj+B;💻+Python+%26+Java+Developer;🎨+Image+Processing+Enthusiast;🚀+Streamlit+Lover;🧠+Learning+Machine+Learning+Fundamentals;)
   
   <a href="https://pixelplayground.streamlit.app/" target="_blank">
     <img src="https://img.shields.io/badge/🔴 Live Demo-PixelPlayground-red?style=for-the-badge&logo=streamlit" alt="Live Demo">
