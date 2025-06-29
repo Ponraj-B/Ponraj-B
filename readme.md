@@ -1,4 +1,5 @@
-![Ponraj B](https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I'm+Ponraj+B;💻+Python+%26+Java+Developer;🎨+Image+Processing+Enthusiast;🚀+Streamlit+Lover;🧠+Building+Foundation+of+LM+Basics&center=true&width=700&height=50&pause=1000&color=F70000&vCenter=true&size=25)
+![Ponraj B](https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I'm+Ponraj+B;💻+Python+%26+Java+Developer;🎨+Image+Processing+Enthusiast;🚀+Streamlit+Lover;🧠+Learning+Machine+Learning+Fundamentals;⚙️+Building+Foundation+of+LM+Basics&center=true&width=800&)
+
 
 
 Welcome to my GitHub profile! I'm passionate about Python and data science,  
