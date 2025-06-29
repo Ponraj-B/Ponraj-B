@@ -1,3 +1,5 @@
+![Ponraj B](https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I'm+Ponraj+B;💻+Python+%26+Java+Developer;🎨+Image+Processing+Enthusiast;🚀+Streamlit+Lover;🧠+Learning+Machine+Learning+Fundamentals)
+
 ![Ponraj B](https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I'm+Ponraj+B;💻+Python+%26+Java+Developer;🎨+Image+Processing+Enthusiast;🚀+Streamlit+Lover;🧠+Learning+Machine+Learning+Fundamentals;⚙️+Building+Foundation+of+LM+Basics&center=true&width=800&height=50&pause=1000&color=F70000&vCenter=true&size=25)
 
 <p align="center">
@@ -6,7 +8,6 @@
   </a>
 </p>
 
-![Ponraj B](https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I'm+Ponraj+B;💻+Python+%26+Java+Developer;🎨+Image+Processing+Enthusiast;🚀+Streamlit+Lover;🧠+Learning+Machine+Learning+Fundamentals)
 ---
 
 ## 🎯 Welcome to Pixel Playground!
