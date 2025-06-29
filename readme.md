@@ -1,3 +1,8 @@
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F70000&center=true&width=435&lines=Ponraj+B;Python+%2F+Streamlit+Developer;Image+Processing+Explorer" alt="Typing SVG" />
+</h2>
+
+
 ![Ponraj B](https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I'm+Ponraj+B;💻+Python+%26+Java+Developer;🎨+Image+Processing+Enthusiast;🚀+Streamlit+Lover;🧠+Learning+Machine+Learning+Fundamentals)
 
 ![Ponraj B](https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I'm+Ponraj+B;💻+Python+%26+Java+Developer;🎨+Image+Processing+Enthusiast;🚀+Streamlit+Lover;🧠+Learning+Machine+Learning+Fundamentals;⚙️+Building+Foundation+of+LM+Basics&center=true&width=800&height=50&pause=1000&color=F70000&vCenter=true&size=25)
