@@ -1,5 +1,6 @@
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F70000&center=true&width=435&lines=Ponraj+B;Python+%2F+Streamlit+Developer;Image+Processing+Explorer" alt="Typing SVG" />
+  ![Ponraj B](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Ponraj+B;Python+Developer;Image+Processing+Enthusiast;Streamlit+Lover!&center=true&width=500&height=50)
+
 </h2>
 
 
