@@ -2,40 +2,63 @@
 
 
 
-Welcome to my GitHub profile! I'm passionate about Python and data science,  
-I enjoy learning new technologies and building projects that solve real-world problems.
+<!-- Animated Typing SVG -->
+![Ponraj B](https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I'm+Ponraj+B;💻+Python+%26+Java+Developer;🎨+Image+Processing+Enthusiast;🚀+Streamlit+Lover;🧠+Learning+Machine+Learning+Fundamentals;⚙️+Building+Foundation+of+LM+Basics&center=true&width=800&height=50&pause=1000&color=F70000&vCenter=true&size=25)
 
 ---
 
-## 🔭 I’m currently working on
-- Building cool image processing apps with Python & Streamlit
-- Exploring machine learning fundamentals
+## 🎯 Welcome to Pixel Playground!
+
+I'm a passionate developer blending **Python**, **Java**, and **image processing** with real-world creativity.  
+Currently diving deeper into **Machine Learning** and building tools to make learning visual and fun.
 
 ---
 
-## 🌱 I’m learning
-- Advanced NumPy and OpenCV
-- Deployment techniques with Streamlit Cloud and Docker
+## 🔭 Currently Working On
+
+- 🧪 Interactive tools using **NumPy + Streamlit**
+- 🤖 Understanding the basics of **Machine Learning & Language Models**
+- ⚙️ Building and deploying apps using **Streamlit Cloud** and **Docker**
 
 ---
 
-## 💻 Projects
-- [RGB Separator](https://github.com/Ponraj-B/rgb-separator) — A Streamlit app to visualize image color channels  
-- [Your Other Project] — Brief description here
+## 🌱 Learning Goals
+
+- 📦 Advanced **NumPy** & **OpenCV**
+- 📚 Machine Learning Fundamentals
+- ☁️ Python app deployment (Cloud & Containers)
 
 ---
 
-## 📫 How to reach me
+## 🚀 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ponraj-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![GitHub](https://img.shields.io/badge/GitHub-Ponraj-black?style=flat-square&logo=github)](https://github.com/Ponraj-B)  
-[![Email](https://img.shields.io/badge/Email-your.email@example.com-red?style=flat-square&logo=gmail)](mailto:your.email@example.com)
+Here are some highlighted repositories (automated stars and updates below):
 
----
-
-## ⚡ Fun fact
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+- 🎨 [RGB Separator](https://github.com/Ponraj-B/rgb-separator) – Visualize image color channels in Streamlit  
+- 🧰 [Pixel Playground](https://github.com/Ponraj-B/pixel-playground) – 15+ NumPy-based tools for image manipulation  
+- 🔧 *More projects coming soon...*
 
 ---
 
-![Ponraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ponraj-B&show_icons=true&theme=radical)
+## 📂 My GitHub Repositories (Live Stats)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ponraj-B&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ponraj-B&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ponraj-B&theme=radical" />
+</p>
+
+---
+
+## 📬 Contact
+
+**Name:** Ponraj B  
+**Email:** [ponraj322002@gmail.com](mailto:ponraj322002@gmail.com)  
+**GitHub:** [Ponraj-B](https://github.com/Ponraj-B)  
+**LinkedIn:** [Ponraj B on LinkedIn](https://in.linkedin.com/in/ponraj-b-96a917264)
+
+---
+
+## ⚡ Fun Fact
+
+> “Most pixels don’t know how cool they look until you process them.”
